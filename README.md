@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dshaw0004
 - 👀 I’m interested in ... web app development and python
-- 🌱 I’m currently completing my ... B.Sc. degree
+- 🌱 I have completed my ... B.Sc. degree
 - 📫 How to reach me ... dipankarshaw692+github@gmail.com
 
 
