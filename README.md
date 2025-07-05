@@ -20,6 +20,9 @@
 ### 🖥 Backend:
   * Check out my [Rapid API Profile](https://rapidapi.com/user/dshaw0004)
 
+  * #### [ISMA - Indian Stock Market API](https://rapidapi.com/dshaw0004/api/indian-stock-market-api1)
+    An API for everything related to Indian Stock Market.
+
 ### 📱 Android
   * Check out my [App Store](https://appbasket.web.app/)
 
