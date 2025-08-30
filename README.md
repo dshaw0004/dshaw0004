@@ -1,5 +1,7 @@
 # Dipankar Shaw (dshaw0004)
 
+![GitHub Followers](https://img.shields.io/github/followers/dshaw0004?style=social)
+
 ## 🎖️ Showcase
 
 ### 🖥️ Web Apps:
@@ -7,15 +9,15 @@
   * #### [Mock Test app](https://makautmocktest.netlify.app/)
   AI based mock test app for my exam preparation.
 
-  * #### [Dino Runner](https://dinorunner.web.app) 
-  Infinite Dinosaur running game in HTML, CSS, and JS. 
-  
+  * #### [Dino Runner](https://dinorunner.web.app)
+  Infinite Dinosaur running game in HTML, CSS, and JS.
+
   * #### [Safe Gold Tracker](https://safegold.web.app)
-   Track the price and trends of digital gold. 
-  
+   Track the price and trends of digital gold.
+
   * #### [Velocitymeter](https://velocitymeter.web.app)
    Web based speedometer like app to track your speed.
-  
+
 
 ### 🖥 Backend:
   * Check out my [Rapid API Profile](https://rapidapi.com/user/dshaw0004)
@@ -29,10 +31,10 @@
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://dipankarshaw.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dshaw0004)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dshaw0004)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dshaw0004)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dshaw0004)](https://twitter.com/intent/follow?screen_name=dshaw0004)
 [![GitLab](https://img.shields.io/badge/GitLab-%23FFFFFF.svg?logo=GitLab&logoColor=#FC6D26)](https://gitlab.com/dshaw0004)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/dshaw0004)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdMbqhTIUH_D3sA-5xl_Daw)](https://youtube.com/@dshaw0004)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,6 +49,7 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -69,5 +72,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=dshaw0004&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ---
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) with some manual changes -->
