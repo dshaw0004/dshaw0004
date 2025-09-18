@@ -9,6 +9,9 @@
   * #### [Mock Test app](https://makautmocktest.netlify.app/)
   AI based mock test app for my exam preparation.
 
+  * #### [Craft O Card](https://craft-o-card.web.app/)
+  Get yourself an elegant business card delivered to your door step.
+  
   * #### [Dino Runner](https://dinorunner.web.app)
   Infinite Dinosaur running game in HTML, CSS, and JS.
 
