@@ -21,6 +21,9 @@
   * #### [Safe Gold Tracker](https://safegold.web.app)
    Track the price and trends of digital gold.
 
+   * #### [Mark Edit](https://markedit.web.app)
+   A simple markdown editor with some exotic features.
+
   * #### [Velocitymeter](https://velocitymeter.web.app)
    Web based speedometer like app to track your speed.
 
