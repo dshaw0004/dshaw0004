@@ -7,25 +7,25 @@
 ### 🖥️ Web Apps:
 
   * #### [Mock Test app](https://makautmocktest.netlify.app/)
-  AI based mock test app for my exam preparation.
+    AI based mock test app for my exam preparation.
 
   * #### [Craft O Card](https://craft-o-card.web.app/)
-  Get yourself an elegant business card delivered to your door step.
+    Get yourself an elegant business card delivered to your door step.
 
   * #### [Punch IN](https://punch-in.web.app/)
-  Keep track of your attendance with just a click.
+    Keep track of your attendance with just a click.
   
   * #### [Dino Runner](https://dinorunner.web.app)
-  Infinite Dinosaur running game in HTML, CSS, and JS.
+    Infinite Dinosaur running game in HTML, CSS, and JS.
 
   * #### [Safe Gold Tracker](https://safegold.web.app)
-   Track the price and trends of digital gold.
+    Track the price and trends of digital gold.
 
    * #### [Mark Edit](https://markedit.web.app)
-   A simple markdown editor with some exotic features.
+     A simple markdown editor with some exotic features.
 
   * #### [Velocitymeter](https://velocitymeter.web.app)
-   Web based speedometer like app to track your speed.
+    Web based speedometer like app to track your speed.
 
 
 ### 🖥 Backend:
