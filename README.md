@@ -9,7 +9,7 @@
   * #### [Mock Test app](https://makautmocktest.netlify.app/)
     AI based mock test app for my exam preparation.
 
-  * #### [Craft O Card](https://craft-o-card.web.app/)
+  * #### [Craft O Card](https://craftocard.in)
     Get yourself an elegant business card delivered to your door step.
 
   * #### [Punch IN](https://punch-in.web.app/)
