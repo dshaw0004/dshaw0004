@@ -75,13 +75,13 @@
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<!--
 # 📊 GitHub Stats:
 
-![](https://gitworker.dshaw0004.workers.dev/api/language-chart)
+![](https://dpres.onrender.com/api/github/language-chart)
 
 
 
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dshaw0004&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 -->
