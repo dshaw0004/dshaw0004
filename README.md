@@ -9,6 +9,9 @@
   * #### [Mock Test app](https://makautmocktest.netlify.app/)
     AI based mock test app for my exam preparation.
 
+  * #### [Open Source Products](https://os-products.dipankar-ab8.workers.dev/)
+    Get to know about latest open source project launches.
+
   * #### [Craft O Card](https://craftocard.in)
     Get yourself an elegant business card delivered to your door step.
 
@@ -72,14 +75,15 @@
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+<!--
 # 📊 GitHub Stats:
 
 ![](https://gitworker.dshaw0004.workers.dev/api/language-chart)
 
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dshaw0004&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
----
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) with some manual changes -->
