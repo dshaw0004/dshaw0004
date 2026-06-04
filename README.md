@@ -6,6 +6,9 @@
 
 ### 🖥️ Web Apps:
 
+  * #### [ShelfHost](https://shelfhost.dipankarshaw.qzz.io)
+    Open Source self hostable online pdf library and reader with bookmark and text highlight feature.
+
   * #### [Mock Test app](https://makautmocktest.netlify.app/)
     AI based mock test app for my exam preparation.
 
