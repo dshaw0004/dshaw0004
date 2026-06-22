@@ -1,6 +1,7 @@
 # Dipankar Shaw (dshaw0004)
 
 ![GitHub Followers](https://img.shields.io/github/followers/dshaw0004?style=social)
+[![Resume](https://img.shields.io/badge/Resume-123456?style=for-the-badge)]([https://mocktest.dipankarshaw.qzz.io](https://github.com/dshaw0004/dshaw0004/blob/c9248179457a42dcdfc1deef2c1f38a7ed7b8b4f/dipankar-shaw-resume.pdf))
 
 ## 🎖️ Showcase
 
@@ -24,9 +25,6 @@
   * #### [Dino Runner](https://dinorunner.web.app)
     Infinite Dinosaur running game in HTML, CSS, and JS.
 
-  * #### [Safe Gold Tracker](https://safegold.web.app)
-    Track the price and trends of digital gold.
-
    * #### [Mark Edit](https://markedit.web.app)
      A simple markdown editor with some exotic features.
 
@@ -41,7 +39,7 @@
     An API for everything related to Indian Stock Market.
 
 ### 📱 Android
-  * Check out my [App Store](https://appbasket.web.app/)
+  * Contact for detailes
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://dipankarshaw.web.app)
@@ -78,15 +76,14 @@
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+
+<!--
 # 📊 GitHub Stats:
 
 ![](https://dpres.onrender.com/api/github/language-chart)
 
 
-
-<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dshaw0004&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) with some manual changes -->
