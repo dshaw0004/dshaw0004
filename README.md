@@ -64,9 +64,6 @@ Full-Stack Developer experienced in architecting production-ready apps, Express.
 - Keep track of your attendance with just a click, all data stored locally in your device, no internet connection needed.
 - Stack: React, DexieJS(IndexedDB)
 
-3. **[Dino Runner](https://dinorunner.web.app)**
-
-- Infinite Dinosaur running game in HTML, CSS, and JS.
 
 And more...
 
