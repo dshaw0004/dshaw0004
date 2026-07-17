@@ -5,6 +5,8 @@ Full-Stack Developer experienced in architecting production-ready apps, Express.
 ![GitHub Followers](https://img.shields.io/github/followers/dshaw0004?style=social)
 [![Resume](https://img.shields.io/badge/Resume-123456?style=for-the-badge)](<[https://mocktest.dipankarshaw.qzz.io](https://github.com/dshaw0004/dshaw0004/blob/c9248179457a42dcdfc1deef2c1f38a7ed7b8b4f/dipankar-shaw-resume.pdf)>)
 
+> Warning: If you are hoping to see my best projects here don't waste your time. All of my best projects are private. Contact me directly to discuss about my project.
+
 ## Experience
 
 ### Full-Stack Developer Intern | Wiseboxs Technologies (Sept 2025 – June 2026)
