@@ -73,7 +73,7 @@ And more...
 
 ## Education
 
-Master of Computer Application (MCA) | RERF Group of Institutes (MAKAUT) | Expected 2026
+Master of Computer Application (MCA) | RERF Group of Institutes (MAKAUT) | 2026
 
 Bachelor of Science (BSc) | Gurudas College (CU) | 2023
 
@@ -81,7 +81,7 @@ Bachelor of Science (BSc) | Gurudas College (CU) | 2023
 
 ##  Socials
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://dipankarshaw.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://www.dshaw.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dshaw0004)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dshaw0004)](https://twitter.com/intent/follow?screen_name=dshaw0004)
 [![GitLab](https://img.shields.io/badge/GitLab-%23FFFFFF.svg?logo=GitLab&logoColor=#FC6D26)](https://gitlab.com/dshaw0004)
