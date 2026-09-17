@@ -37,12 +37,12 @@ Full-Stack Developer experienced in architecting production-ready apps, Express.
 - Integrated structured data (JSON-LD) and sitelink schemas to optimize SEO.
 - Configured automated deployment pipelines and custom routing for 100% uptime.
 
-**Nexrepo** (Automated Git Backup Utility) => [nexrepo.qzz.io](https://nexrepo.qzz.io)
+**PyGraphile** (Python library that creates graphql server automatically from database) => [pygraphile](https://pygraphile.dshaw.dev)
+- Stack: Python Ariadne(For creating actual graphql server)
+- It automatically scans the provided database and creates a graphql ASGI/WSGI application which can be used as standalone application or can be used with libraries like FastAPI or DJango.
+- Currently it supports queries only, mutations will be added later
+- It supports sqlite, mariadb and mysql.
 
-- Stack: Vue.js, Astro, Tailwind CSS, Hono, GitHub API, OAuth
-- Built an automated disaster recovery tool to backup GitHub repos to private cloud storage.
-- Integrated GitHub REST and Webhook APIs for real-time, delta-based backup sequences.
-- Architected a secure OAuth pipeline to manage user permissions without storing credentials.
 
 **ShelfHost** (Self hostable google play book) => [ShelfHost](https://shelfhost.dipankarshaw.qzz.io)
 
@@ -65,6 +65,13 @@ Full-Stack Developer experienced in architecting production-ready apps, Express.
 
 - Keep track of your attendance with just a click, all data stored locally in your device, no internet connection needed.
 - Stack: React, DexieJS(IndexedDB)
+
+3. **[nexrepo.qzz.io](https://nexrepo.qzz.io)**
+
+- Stack: Vue.js, Astro, Tailwind CSS, Hono, GitHub API, OAuth
+- Built an automated disaster recovery tool to backup GitHub repos to private cloud storage.
+- Integrated GitHub REST and Webhook APIs for real-time, delta-based backup sequences.
+- Architected a secure OAuth pipeline to manage user permissions without storing credentials.
 
 
 And more...
